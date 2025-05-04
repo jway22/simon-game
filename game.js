@@ -1,4 +1,3 @@
-// testing git changes
 let buttonColors = ["red", "blue", "yellow", "green"];
 
 let gamePattern = [];
